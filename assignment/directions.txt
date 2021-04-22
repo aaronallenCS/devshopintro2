@@ -2,3 +2,6 @@ reFork this repo. In you report file. Write as many questions about coding that 
 create a new directory/folder let call this folder progress. 
 
 After you've done that, create a new file that contains a list of your favorite movies, and push that to this folder as well, and make a pull request
+
+
+Inside the assignment folder, create a new folder called progress_YOURNAME. Inside that folder create two text files, one with coding questions, the other for favorite movies.
